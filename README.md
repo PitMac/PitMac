@@ -1,16 +1,15 @@
-### Hi there 👋
+# ▶️Jhon David Pita Macias◀️
 
-<!--
-**PitMac/PitMac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✔️ I am a web developer and mobile development lover 📲. I have worked on my own projects with **ReactJS, Flutter, Svelte, and NodeJS**. I am also prepared to learn new technologies without any problem 👾. My favorite hobbies are listening to **music** 🎶 and playing **videogames** 🎮.
 
-Here are some ideas to get you started:
+Visit my [WebPage!](https://jhonpitmac.vercel.app/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![This is a alt text.](https://raw.githubusercontent.com/PitMac/PitMac/main/Untitled.jpg "Web Home")
+
+
+## Skills
+* ReactJS & React Native
+* Flutter
+* Svelte
+* NodeJS
+* Git

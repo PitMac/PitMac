@@ -6,8 +6,8 @@
 <code><img height="30" src="https://jhonpitmac.vercel.app/assets/skills/flutter.svg"></code>
 <code><img height="30" src="https://jhonpitmac.vercel.app/assets/skills/svelte.svg"></code>
 <code><img height="30" src="https://jhonpitmac.vercel.app/assets/skills/node.svg"></code>
-<code><img height="30" src="https://jhonpitmac.vercel.app/assets/skills/sql.svg"></code>
-<code><img height="30" src="https://jhonpitmac.vercel.app/assets/skills/git.svg"></code>
+<code><img height="30" src="https://jhonpitmac.vercel.app/assets/skills/tauri.svg"></code>
+<code><img height="30" src="https://jhonpitmac.vercel.app/assets/skills/languages/sql.svg"></code>
 
 Visit my [WebPage!](https://jhonpitmac.vercel.app/).
 
